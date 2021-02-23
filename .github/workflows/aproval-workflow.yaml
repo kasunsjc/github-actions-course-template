@@ -4,6 +4,7 @@ jobs:
   labelWhenApproved:
     runs-on: ubuntu-latest
     steps:
+    # Add the approved Label
     - name: Label approved pull requests
       uses: abinoda/label-when-approved-action@1.0.5
       env:
