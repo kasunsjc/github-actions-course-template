@@ -3,3 +3,8 @@ Installation steps for dockers
 Step 1 
 
 install docker for windows
+
+Step 2
+
+run the setup
+
