@@ -6,4 +6,6 @@ install docker for windows
 
 Step 2
 
-Running the setup
+
+run the setup
+
